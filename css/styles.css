@@ -6,6 +6,8 @@ p.about {
   text-align: justify;
   padding-top: 5%;
   padding-bottom: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 body {
@@ -24,4 +26,20 @@ h1 {
 h3 {
   text-align: center;
   text-decoration: underline;
+}
+
+.links p {
+  font-style: italic;
+}
+
+.links {
+  padding-top: 12px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.highlight {
+  background-color: yellow;
 }
