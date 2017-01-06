@@ -10,6 +10,17 @@ p.about {
   margin-bottom: 10px;
 }
 
+p.linktext {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.linktext a {
+  font-weight: bold;
+}
+
 body {
   background-color: #DBE6E0;
 }
@@ -41,8 +52,8 @@ h3 {
   padding-top: 20px;
 }
 
-.highlight {
-  background-color: yellow;
+.bold {
+  font-weight: bold;
 }
 
 .title {
