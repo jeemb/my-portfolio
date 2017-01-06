@@ -2,3 +2,6 @@ img {
   height: auto;
   max-width: 100%;
 }
+p.about {
+  text-align: justify;
+}
