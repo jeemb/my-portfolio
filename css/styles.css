@@ -4,4 +4,24 @@ img {
 }
 p.about {
   text-align: justify;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+body {
+  background-color: #afc1b7;
+}
+
+.well {
+  border: 1px hidden #2b333e;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Helvetica", Helvetica, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
 }
