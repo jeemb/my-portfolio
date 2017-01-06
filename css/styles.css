@@ -11,7 +11,7 @@ p.about {
 }
 
 body {
-  background-color: #afc1b7;
+  background-color: #DBE6E0;
 }
 
 .well {
@@ -26,6 +26,7 @@ h1 {
 h3 {
   text-align: center;
   text-decoration: underline;
+  font-family: "helvetica", helvetica, sans-serif;
 }
 
 .links p {
@@ -42,4 +43,13 @@ h3 {
 
 .highlight {
   background-color: yellow;
+}
+
+.title {
+  background-image: url(http://www.x8ing.com/resources/iceland_myrdalssandur.jpg);
+  border-bottom: 20px solid black;
+}
+
+ol {
+  text-align: center;
 }
