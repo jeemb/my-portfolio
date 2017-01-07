@@ -1,20 +1,19 @@
 # Jennifer Beem's Portfolio
 
-#### This project creates a portfolio file to showcase Jennifer's web page development projects, January 6, 2017
+#### This project creates a portfolio file to showcase Jennifer's web page development projects. January 6, 2017
 
 #### By Jennifer Beem
 
 ## Description
 
-This project creates a portfolio to showcase Jennifer's current web development project. The portfolio is written in HTML and styled with CSS and Bootstrap.
+This project creates a portfolio to showcase Jennifer's current web development project. The portfolio is written in HTML and styled with CSS/Bootstrap.
 
 ## Setup/Installation Requirements
 
 * Clone this repository.
 * Open HTML and CSS files in atom if editing needed.
 * Open HTML file to see final result
-
-Access published web page at jeemb.github.io/my-portfolio
+* Access published web page (GitHub Pages) at jeemb.github.io/my-portfolio
 
 ## Known Bugs
 
@@ -28,7 +27,7 @@ email: jenniferbeem@gmail.com
 ## Technologies Used
 
 HTML
-CSS and Bootstrap styling
+CSS/Bootstrap styling
 
 ### License
 
