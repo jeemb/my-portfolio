@@ -10,10 +10,10 @@ This project creates a portfolio to showcase Jennifer's current web development 
 
 ## Setup/Installation Requirements
 
-* Clone this repository.
-* Open HTML and CSS files in atom if editing needed.
-* Open HTML file to see final result
-* Access published web page (GitHub Pages) at jeemb.github.io/my-portfolio
+* Clone this repository to your desktop
+* Open index.html
+* View portfolio in web browser
+* You may also access published web page (GitHub Pages) at jeemb.github.io/my-portfolio
 
 ## Known Bugs
 
